@@ -2,7 +2,7 @@
 - 👀 I’m interested in Quality Assurance testing and methodologies
 - 🌱 I’m currently learning devops
 - 💞️ I’m looking to collaborate on UI and Api automation projects
-- 📫 How to reach me  : 08112907097
+- 📫 How to reach me  : 07823671390
 
 <!---
 jiideeh/jiideeh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
